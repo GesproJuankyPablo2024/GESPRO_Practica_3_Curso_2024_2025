@@ -1,44 +1,30 @@
-![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
+Autores:
+Pablo Martinez Ibañez
+Juan Carlos Gallego García
 
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-[![Build Status](https://travis-ci.org/davidmigloz/go-bees.svg?branch=master)](https://travis-ci.org/davidmigloz/go-bees)
-[![codecov](https://codecov.io/gh/davidmigloz/go-bees/branch/master/graph/badge.svg)](https://codecov.io/gh/davidmigloz/go-bees)
-[![Code Climate](https://codeclimate.com/github/davidmigloz/go-bees/badges/gpa.svg)](https://codeclimate.com/github/davidmigloz/go-bees)
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=go-bees)](https://sonarqube.com/component_measures/?id=go-bees)
-[![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
-[![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
+Pasos para realizar un nuevo commit:
+1) Seleccionar el commit que queremos copiar en go-bees, hacer click derecho y darle a la siguiente opción:
+![Imagen de WhatsApp 2024-12-02 a las 11 56 59_a6f5d114](https://github.com/user-attachments/assets/aa6f9013-35f1-43dc-911f-66af1994a17b)
+2) Crear un nuevo issue en GitHub, ponerle el nombre del commit y crear una nueva rama:
+![Imagen de WhatsApp 2024-12-02 a las 11 58 15_610c4a51](https://github.com/user-attachments/assets/9f0c85de-023b-4a3b-b2b2-23972d4b380f)
+3) Hacer doble click en la nueva rama creada dentro de GitKraken:
+![Imagen de WhatsApp 2024-12-02 a las 12 00 43_c0b05292](https://github.com/user-attachments/assets/b75bdf53-200f-4f20-a56c-5ebd92dfdaa1)
+4)  Copiar los archivos de go-bees y copiarlos en la carpeta de la práctica:
+![Imagen de WhatsApp 2024-12-02 a las 12 01 15_905697f0](https://github.com/user-attachments/assets/472a6b60-03a1-47b0-94b0-371128076722)
+5)  Aceptar todos los cambios y darle nombre al commit:
+![Imagen de WhatsApp 2024-12-02 a las 12 01 45_bfef4a50](https://github.com/user-attachments/assets/1aa99fe6-a3f4-43a2-a68d-6e1105dda7da)
+6)  Hacer un fetch all, un pull y por ultimo un push.
 
-GoBees allows beekepers to manage and monitor their apiaries.
+7)  Aceptar el pull request dentro de GitHub para pasar el commit de la rama creada a la master.
+![Imagen de WhatsApp 2024-12-02 a las 12 02 18_5ddb57bf](https://github.com/user-attachments/assets/d0a27c9f-cc0d-45c3-bc27-6871696af015)
+![Imagen de WhatsApp 2024-12-02 a las 12 09 18_0f88a401](https://github.com/user-attachments/assets/d79039aa-fc22-47cf-84a4-14a5ce2899ac)
+![Imagen de WhatsApp 2024-12-02 a las 12 09 42_8dc2f495](https://github.com/user-attachments/assets/2a9d2aa1-3dc2-4fe5-8a9e-c5e9b4aa67c5)
 
-<a href="https://play.google.com/store/apps/details?id=com.davidmiguel.gobees">
-  <img src="http://gobees.io/img/google-play-badge.svg" height="60">
-</a>
+Foto con todos los commits ya hechos:
+![Captura de pantalla 2024-12-02 115402](https://github.com/user-attachments/assets/c2334cba-6a9e-4ecb-b7ba-263b3e56c4ea)
 
-### Key features
+Foto del primer commit:
+![Captura de pantalla 2024-12-02 115721](https://github.com/user-attachments/assets/cc2d15fb-435e-4f7e-9f95-0fe4c3dbbc17)
 
-- Manage apiaries (name, location, notes…).
-- Manage hives (id, notes, last revision date…).
-- Monitor flight activity of a hive with the camera of your smartphone.
-- Analize the gathered data easily together with weather information.
-- Localize your apiaries on a map (using your favourite maps app).
-- Get current weather conditions in your apiaries.
-
-**Supported languages:** English, Spanish, Catalan, Polish and Arabic.
-
-Find more information on our website: http://gobees.io.
-
-GoBees!
-
-## License
-
-Copyright (c) 2016 - 2017 David Miguel Lozano
-
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+Foto del último commit:
+![Captura de pantalla 2024-12-02 115746](https://github.com/user-attachments/assets/4137d256-dc48-4912-925d-557c36351fe6)
