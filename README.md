@@ -28,3 +28,6 @@ Foto del primer commit:
 
 Foto del último commit:
 ![Captura de pantalla 2024-12-02 115746](https://github.com/user-attachments/assets/4137d256-dc48-4912-925d-557c36351fe6)
+
+Foto de las estadísticas en insights:
+![image](https://github.com/user-attachments/assets/e0db6730-048e-485b-a816-614cb2530f21)
