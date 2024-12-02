@@ -31,3 +31,9 @@ Foto del último commit:
 
 Foto de las estadísticas en insights:
 ![image](https://github.com/user-attachments/assets/e0db6730-048e-485b-a816-614cb2530f21)
+
+Foto del code frequency en insights:
+![Imagen de WhatsApp 2024-12-02 a las 12 22 05_64789103](https://github.com/user-attachments/assets/59bf6c91-a72d-4fa0-9340-d3be528f0343)
+
+Foto de las pull request cerradas:
+![image](https://github.com/user-attachments/assets/57412969-0bfd-4d41-8c43-7ee255efb556)
