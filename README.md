@@ -1,23 +1,28 @@
-![header](https://cloud.githubusercontent.com/assets/6546265/22174630/785cdf04-dfe3-11e6-8cf4-024e8dc1c051.png)
+Autores:
+Pablo Martinez Ibañez
+Juan Carlos Gallego García
 
-[![ZenHub](https://raw.githubusercontent.com/ZenHubIO/support/master/zenhub-badge.png)](https://zenhub.com)
-[![Build Status](https://travis-ci.org/davidmigloz/go-bees.svg?branch=master)](https://travis-ci.org/davidmigloz/go-bees)
-[![codecov](https://codecov.io/gh/davidmigloz/go-bees/branch/master/graph/badge.svg)](https://codecov.io/gh/davidmigloz/go-bees)
-[![Code Climate](https://codeclimate.com/github/davidmigloz/go-bees/badges/gpa.svg)](https://codeclimate.com/github/davidmigloz/go-bees)
-[![SonarQube](https://sonarqube.com/api/badges/gate?key=go-bees)](https://sonarqube.com/component_measures/?id=go-bees)
-[![Dependency Status](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33/badge.svg?style=flat-square)](https://www.versioneye.com/user/projects/57f7b19e823b88004e06ad33)
-[![Documentation Status](https://readthedocs.org/projects/go-bees/badge/?version=develop)](http://go-bees.readthedocs.io/es/develop/?badge=develop)
+Foto de todos los commits realizados:
+![image](https://github.com/user-attachments/assets/1e06c468-089f-4f98-a2c2-fa6fb2eb407b)
 
-## License
+Paso a paso de como crear un nuevo commit:
+1) En el repositorio de go-bees buscas el commit del que quieres hacer una copia, das click derecho, reset master to this commit, Hard-discard all changes.
 
-Copyright (c) 2016 - 2017 David Miguel Lozano
+2) Creas una nuevo issue en github con el nombre del commit y creas una nueva rama dentro de este issue.
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-any later version.
+3) Hacer doble click en la rama en remoto dentro de Gitkraken.
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
-GNU General Public License for more details.
+4) Copiar y pegar los archivos de la carpeta de go-bees a nuestra carpeta de la práctica
+
+5) Aceptar todos los cambios y poner nombre al commit.
+
+6) Hacer un fetch all y un push para comprobar que esta todo actualizado dentro de la rama.
+
+7) Hacer un push para subir los archivos cambiados a github
+
+8) Ir a pull request y aceptar el pull request.
+Captura de pantalla del primer commit:
+![image](https://github.com/user-attachments/assets/ec5f5e0e-345b-4041-a1b9-7cf33c05517b)
+
+Captura de pantalla del último commit:
+![image](https://github.com/user-attachments/assets/3700c726-3a95-4017-9294-74c619425404)
